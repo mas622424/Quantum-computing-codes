@@ -1,0 +1,7 @@
+qbraid[cirq,braket,qiskit,pyquil]
+numpy
+qiskit 
+qiskit-aer
+scipy
+matplotlib
+ipykernel
